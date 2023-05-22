@@ -1,0 +1,62 @@
+body {
+
+  font-family: sans-serif;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+header {
+
+  background-color: #f00;
+
+  color: #fff;
+
+  padding: 10px;
+
+}
+
+main {
+
+  margin: 0 auto;
+
+  width: 400px;
+
+}
+
+#chat {
+
+  border: 1px solid #ccc;
+
+  padding: 10px;
+
+}
+
+#message {
+
+  width: 100%;
+
+}
+
+#send {
+
+  background-color: #000;
+
+  color: #fff;
+
+  padding: 10px;
+
+  border: none;
+
+  cursor: pointer;
+
+}
+
+#response {
+
+  margin-top: 10px;
+
+}
+
